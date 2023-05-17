@@ -1,0 +1,17 @@
+
+h1 {
+    color: white;
+}
+
+#restangle {
+    height: 550px;
+    width: 150px;
+    background-color: #808080;
+}
+
+
+.kwadrat {
+    height: 100px;
+    width: 100px;
+    background-color: #fea500;
+}
